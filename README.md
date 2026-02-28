@@ -4,4 +4,4 @@ This repository contains projects for analyzing various types of logs using Splu
 
 
 **Projects**
-1. DNS Logs  🔗 [View Project Repository](https://github.com/your-username/your-repo-name/tree/main/analyzing-dns-log-using-splunk-siem)
+1. DNS Logs  🔗 [View Project Repository](https://github.com/SREENATHGOWD/Splunk-Projects/blob/main/analyzing-dns-log-using%20splunk-siem)
