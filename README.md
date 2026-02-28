@@ -4,3 +4,4 @@ This repository contains projects for analyzing various types of logs using Splu
 
 
 **Projects**
+1. DNS Logs
