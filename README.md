@@ -4,5 +4,5 @@ This repository contains projects for analyzing various types of logs using Splu
 
 
 **Projects**
-1. DNS Logs  🔗 [View Project Repository](https://github.com/SREENATHGOWD/Splunk-Projects/blob/main/analyzing-dns-log-using%20splunk-siem)
-2. HTTP Logs 🔗 [View Project Repository](https://github.com/SREENATHGOWD/Splunk-Projects/blob/main/Analyzing%20HTTP%20Log%20Files%20Using%20Splunk%20SIEM)
+1. DNS Logs  🔗 [DNS Logs](https://github.com/SREENATHGOWD/Splunk-Projects/blob/main/analyzing-dns-log-using%20splunk-siem)
+2. HTTP Logs 🔗 [HTTP Logs](https://github.com/SREENATHGOWD/Splunk-Projects/blob/main/Analyzing%20HTTP%20Log%20Files%20Using%20Splunk%20SIEM)
